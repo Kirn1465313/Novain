@@ -9,8 +9,4 @@ This repository contains the source code for a simple calculator built using Pyt
 * Includes a clear and intuitive user interface
 * Handles invalid input gracefully
 
-**Getting Started:**
 
-1. **Clone the repository:**
-   ```bash
-   git clone [invalid URL removed]
